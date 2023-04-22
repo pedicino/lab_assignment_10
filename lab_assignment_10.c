@@ -4,7 +4,7 @@
 
 typedef struct Trie{
     int flag;
-    struct Trie *children[25];
+    struct Trie *children[26];
 } Trie;
 
 
